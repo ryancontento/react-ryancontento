@@ -1,8 +1,6 @@
-# react-kodydeda
+# react-ryancontento
 
-Source code for my [Personal Website](https://kodydeda.netlify.app), built with [NextJS](https://nextjs.org/docs) & [ChakraUI](https://chakra-ui.com/docs/).
-
-<img width="600" alt="Screen Shot 2022-02-01 at 11 41 48 AM" src="https://user-images.githubusercontent.com/45678211/152011482-9e979c50-f1ed-4543-a19c-9901d34ac7e8.png">
+Source code for my [Personal Website](https://ryancontento.dev) thanks to [Kody Deda](https://github.com/kodydeda4), built with [NextJS](https://nextjs.org/docs) & [ChakraUI](https://chakra-ui.com/docs/).
 
 ## 🎁 Make It Yours!
 
@@ -14,7 +12,7 @@ Copy & paste this into your terminal to clone the repo, install dependencies, an
 
 ```bash
 # clone repo
-git clone https://github.com/kodydeda4/react-kodydeda website
+git clone https://github.com/ryancontento/react-ryancontento website
 
 # install dependencies
 cd website
@@ -27,6 +25,7 @@ yarn dev
 ### 2. Update the resume
 
 Edit the `resume.ts` file to show off your experience, projects, education, etc. The site will automatically re-render to show the changes!
+
 ```
 website/data/resume.ts
 ```
